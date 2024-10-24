@@ -1,0 +1,1 @@
+This is a C++ project focused on developing an airport management system. The system is designed to handle various operations related to airport data, including creating and managing airport structures, calculating distances between airports, and estimating travel times for flights with multiple stops.
